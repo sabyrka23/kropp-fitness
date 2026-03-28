@@ -17,7 +17,7 @@
   --trainingTypesItemBgIconSize: 80px;
 
   display: flex;
-  flex-direction: column-reverse;
+  flex-direction: column;
   align-items: center;
   row-gap: 32px;
   padding-top: var(--trainingTypesItemBgIconSize);
