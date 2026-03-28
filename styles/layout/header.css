@@ -2,7 +2,8 @@
   display: flex;
   justify-content: space-between;
   align-items: center;
-  padding: 20px;
+  column-gap: 20px;
+  padding-inline: 32px;
 }
 
 .header-logo {
