@@ -22,7 +22,7 @@
   display: inline-flex;
   align-items: center;
   column-gap: 7px;
-  height: 90px;
+  height: var(--header-height);
   text-decoration: none;
   text-transform: uppercase;
   font-weight: 700;
