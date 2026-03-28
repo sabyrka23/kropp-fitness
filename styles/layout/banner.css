@@ -22,7 +22,7 @@
 
 .banner-info::before {
   content: '';
-  width: min(10.1vw, 194px);
+  width: clamp(60px, 10.1vw, 194px);
   aspect-ratio: 1;
   margin-right: 30px;
   background: url('../../assets/icons/bold-arrow-down-right.svg') center / contain no-repeat;
