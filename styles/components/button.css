@@ -20,6 +20,7 @@
 }
 
 .button.transparent {
+  position: relative;
   height: var(--input-height);
   padding-left: 31px;
   padding-right: 80px;
