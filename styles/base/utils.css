@@ -22,6 +22,10 @@
   line-height: 1.3;
 }
 
+.title-big {
+  font-size: clamp(24px, 3.12vw, 60px);
+}
+
 .backdrop-title {
   position: relative;
   z-index: 2;
