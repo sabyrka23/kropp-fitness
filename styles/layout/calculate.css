@@ -62,7 +62,6 @@
 
 .calculate-table {
   position: relative;
-  border-collapse: collapse;
 }
 
 .calculate-table :is(td, th) {
