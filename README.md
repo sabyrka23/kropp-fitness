@@ -2,6 +2,7 @@
 
 Responsive fitness landing page built with HTML5 and CSS3 using Flexbox, CSS Grid, and modular CSS architecture.
 
+## 📸 Preview
 ![](./preview.png)
 
 ## 🚀 Live Demo
