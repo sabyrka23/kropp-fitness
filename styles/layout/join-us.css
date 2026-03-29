@@ -69,3 +69,10 @@
 .join-us-title:not(:last-child) {
   margin-bottom: 130px;
 }
+
+.join-us-form-header {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  row-gap: 7px;
+}
