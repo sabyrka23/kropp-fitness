@@ -76,3 +76,14 @@
   align-items: center;
   row-gap: 7px;
 }
+
+.join-us-form-header:not(:last-child) {
+  margin-bottom: 52px;
+}
+
+.join-us-form-subtitle {
+  font-size: 20px;
+  line-height: 1.65;
+  text-transform: uppercase;
+  color: var(--color-light);
+}
