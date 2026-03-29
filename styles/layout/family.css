@@ -1,0 +1,9 @@
+.family-header {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  row-gap: 7px;
+  padding-top: 132px;
+  padding-bottom: 62px;
+  text-align: center;
+}
