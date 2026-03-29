@@ -24,6 +24,7 @@
   height: var(--input-height);
   padding-left: 31px;
   padding-right: 80px;
+  color: var(--color-light);
   background-color: transparent;
   border: var(--border);
 }
