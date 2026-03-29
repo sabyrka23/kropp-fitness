@@ -3,7 +3,7 @@
 Responsive fitness landing page built with HTML5 and CSS3 using Flexbox, CSS Grid, and modular CSS architecture.
 
 ## 📸 Preview
-![](./assets/preview.png)
+![](./assets/preview.svg)
 
 ## 🚀 Live Demo
 https://sabyrka23.github.io/kropp-fitness/
