@@ -140,3 +140,18 @@
     padding-top: 10px;
   }
 }
+
+@media (max-width: 767px) {
+  .calculate {
+    padding-block: 60px;
+  }
+
+  .calculate-inner {
+    flex-direction: column;
+    row-gap: 30px;
+  }
+
+  .calculate-table-wrapper::before {
+    display: none;
+  }
+}
